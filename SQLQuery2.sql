@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SELECT TOP 10 sum(LineTotal) AS "Soma Total"
 FROM Sales.SalesOrderDetail
 
@@ -59,3 +60,7 @@ GROUP BY ProductID
 
 
 
+=======
+SELECT *
+FROM Person.Person
+>>>>>>> 11c6b3d (Adicionando scripts SQL 13/02)
